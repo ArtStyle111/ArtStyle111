@@ -11,7 +11,7 @@ I'm a WordPress/Front-end developer with exp 4 years!</h1></div>
 - 🌱 I’m currently learning React ⚛️<br>
 - 🤔 I’m looking to network and make friends here!<br>
 - 💬 Ask me about WordPress anything  <br>
-- 📫 How to reach me: <a src="https://www.linkedin.com/in/volodymyr-hupalo-a78456172/"> LINK </a><br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/volodymyr-hupalo-a78456172/">LINK</a><br>
 - 😄 Pronouns: Vladimir Hupalo<br>
 - ⚡ Hobbies: Codding, Sleeping, Reading, Manga, Guitar and Social Network.<br>
 </div>
