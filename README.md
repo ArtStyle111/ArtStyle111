@@ -7,7 +7,6 @@ I'm a WordPress/Front-end developer with exp 5 years!</h1></div>
 </div>
 <div align="left">
 <h4>Short about me:</h4>
-- 🔭 I’m currently working on SmartPipl <br>
 - 🌱 I’m currently learning React ⚛️<br>
 - 🤔 I’m looking to network and make friends here!<br>
 - 💬 Ask me about WordPress anything  <br>
